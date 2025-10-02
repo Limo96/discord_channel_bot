@@ -1,0 +1,20 @@
+# Discord Bot Configuration
+# Fill in your IDs and token here
+
+# Discord bot token (get it from Discord Developer Portal)
+token = "YOUR_BOT_TOKEN_HERE"
+
+# ID of the category where channels will be created
+category_id = 0
+
+# ID of the channel for operation logs
+log_channel_id = 0
+
+# ID of the channel for the channel list display
+list_channel_id = 0
+
+# ID of the role that can use /create, /delete, /rename, /description
+special_role_id = 0
+
+# ID of the manager role that can use /updatelist
+manager_role_id = 0
